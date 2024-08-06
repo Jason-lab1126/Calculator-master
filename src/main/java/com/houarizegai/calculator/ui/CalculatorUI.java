@@ -18,7 +18,7 @@ public class CalculatorUI {
     private static final String FONT_NAME = "Comic Sans MS";
     private static final String DOUBLE_OR_NUMBER_REGEX = "([-]?\\d+[.]\\d*)|(\\d+)|(-\\d+)";
     private static final String APPLICATION_TITLE = "Calculator";
-    private static final int WINDOW_WIDTH = 410;
+    private static final int WINDOW_WIDTH = 500; //Changed from 410
     private static final int WINDOW_HEIGHT = 600;
     private static final int BUTTON_WIDTH = 80;
     private static final int BUTTON_HEIGHT = 70;
